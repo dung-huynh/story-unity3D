@@ -19,4 +19,8 @@ The environment is complete; the whole game proceeds within a house. The algorit
 Download the project, open it, run the Scene file, and you can start to work on it immediately!
 
 ## Screenshots
-To be added soon.
+![Kitchen](/Screenshots/kitchen_1.png?raw=true "Kitchen")
+![Living Room](/Screenshots/living_1.png?raw=true "Living Room")
+![Living Room](/Screenshots/living_2.png?raw=true "Living Room")
+![Living Room](/Screenshots/living_3.jpg?raw=true "Living Room")
+![Hall](/Screenshots/living_5.png?raw=true "Hallway")
