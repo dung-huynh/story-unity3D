@@ -9,6 +9,9 @@ not manage to complete this; therefore, I uploaded it here for you to develop an
 The environment is complete; the whole game proceeds within a house. The algorithms are lacking.
 
 ## Getting Started
+### Original Idea
+Furniture being moved, objects dropping on the floor, banging noises on the wall, and followed by many unexplainable incidents, the house is like haunted; the player (the owner of the house) has to figure out what causes it.
+
 ### This project is built with:
 
 * [Unity3D](https://store.unity.com) - Game Engine
